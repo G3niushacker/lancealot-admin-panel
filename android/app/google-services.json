@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "262408762490",
+    "project_id": "lancealot-1bc3c",
+    "storage_bucket": "lancealot-1bc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262408762490:android:a1205133933135888db7c3",
+        "android_client_info": {
+          "package_name": "com.example.lancealot_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262408762490-j1pd9eh3v1h6m1pbda3pungnu12gouqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QBlKWdvQda5mPkTmZdeWwdcq7kuuZe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262408762490-j1pd9eh3v1h6m1pbda3pungnu12gouqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262408762490-1tkctgqg62bk4brtuba4p86qmmupsmel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lancelot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262408762490:android:2ee39111b6f799688db7c3",
+        "android_client_info": {
+          "package_name": "com.example.lancelot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262408762490-j1pd9eh3v1h6m1pbda3pungnu12gouqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6QBlKWdvQda5mPkTmZdeWwdcq7kuuZe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262408762490-j1pd9eh3v1h6m1pbda3pungnu12gouqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262408762490-1tkctgqg62bk4brtuba4p86qmmupsmel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lancelot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

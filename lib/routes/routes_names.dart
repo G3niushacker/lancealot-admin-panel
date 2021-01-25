@@ -1,0 +1,11 @@
+const String dashboard = 'dashboard';
+const String totalGuards = 'total_guards';
+const String totalCustomers = 'total_customers';
+const String todayFiles = 'today_files';
+const String onlineGuards = 'online_guards';
+const String todayRevenue = 'today_revenue';
+const String feedback = 'feedback';
+const String guardsReports = 'guards_reports';
+const String mapScreen = 'mapScreen';
+const String seeProfiles = 'see_profiles';
+const String guardProfile = 'guard_profile';
